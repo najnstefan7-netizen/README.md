@@ -1,2 +1,8 @@
 # README.md
-Hi there, I'm Zhangir! 👋 I'm an aspiring IT student and developer focused on building clean, efficient, and practical projects. Currently diving deep into programming, exploring backend logic, and honing my tech skills day by day.
+ Asubay Zhangir | Software Engineer 👋
+
+### 👨‍💻 О себе / About Me
+- *ФИО:* Асубай Жангир Тимурович (Asubay Zhangir Timurovich)
+- *Специальность:* Разработчик программного обеспечения (Software Engineer)
+- *Описание:* Начинающий разработчик программного обеспечения. Изучаю алгоритмы, backend-логику на Python и основы веб-технологий (HTML/CSS). Нацелен на создание чистого, масштабируемого и эффективного кода.
+
